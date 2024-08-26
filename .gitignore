@@ -1,0 +1,8 @@
+# Ignore Visual Studio Code specific folders
+.vscode/
+
+# Ignore compiled output files (e.g., .exe files)
+*.exe
+
+# Ignore specific output directories
+**/output/
