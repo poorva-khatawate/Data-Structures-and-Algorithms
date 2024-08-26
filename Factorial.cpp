@@ -1,4 +1,4 @@
-//Factorical of a number
+//Factorial of a number
 #include <iostream>
 using namespace std;
 
