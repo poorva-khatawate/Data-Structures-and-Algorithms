@@ -20,3 +20,11 @@ int main(){
 // Space Complexity: O(1)
 // Input: 5
 // Output: 2
+
+//or
+/*
+while(n!=0){
+    n=n&(n-1);
+    cnt++;
+}
+*/
