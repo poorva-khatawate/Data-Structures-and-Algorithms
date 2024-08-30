@@ -16,8 +16,9 @@ int main(){
     for(int i=0;i<n;i++){
         mp[a[i]]++;
     }
+    int mini=(n/3)+1;
     for(auto i:mp){
-        if(i.second>(n/3)){
+        if(i.second==mini){
             ans.push_back(i.first);
         }
         if(ans.size()==2){
