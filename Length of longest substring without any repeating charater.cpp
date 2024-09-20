@@ -1,3 +1,5 @@
+//find the length of the longest substring without any repeating characters.
+//eg: "abcabcbb" -> "abc" -> 3
 #include <iostream>
 #include <string>
 #include <set>

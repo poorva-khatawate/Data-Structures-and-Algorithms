@@ -19,7 +19,8 @@ int main(){
             start=1;
         }
         else{
-        start=0;}
+        start=0;
+        }
         for(int j=0;j<=i;j++){
             cout<<start<<" ";
             start=1-start;
